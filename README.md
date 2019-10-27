@@ -9,7 +9,7 @@ Blog
 
 ### 高性能服务器
 
-- [什么是并发(Concurrency)](https://github.com/o-my-god/Blog/wiki/Concurrency%28并发%29)
+- [什么是并发(Concurrency)](https://github.com/o-my-god/Blog/wiki/Concurrency)
 
 
 
