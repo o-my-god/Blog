@@ -15,7 +15,10 @@
 
 - [并发的基本挑战](https://github.com/o-my-god/Blog/wiki/并发的基本挑战)
 
+- [并发问题的根源] (https://github.com/o-my-god/Blog/wiki/并发问题的根源)
+
 - [并发与操作系统](https://github.com/o-my-god/Blog/wiki/并发和操作系统)
+
 
 ## 关于作者
 - QQ：740016830
