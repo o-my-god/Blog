@@ -19,6 +19,7 @@
 
 - [并发与操作系统](https://github.com/o-my-god/Blog/wiki/并发和操作系统)
 
+- [如何评估锁的实现](https://github.com/o-my-god/Blog/wiki/如何评估锁的实现)
 
 ## 关于作者
 - QQ：740016830
