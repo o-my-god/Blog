@@ -23,7 +23,7 @@
 
 ### 性能调优相关文章
 #### 性能监视、跟踪工具
-[![brendan gregg大神Linux观测工具](http://www.brendangregg.com/Perf/linux_observability_tools.png)
+[![brendan gregg大神Linux观测工具]](http://www.brendangregg.com/Perf/linux_observability_tools.png)
 - [uptime系统负载监测] https://linux.cn/article-2334-1.html 
 - [top、htop、mpstat CPU使用率监测] https://linuxconfig.org/how-to-check-and-monitor-cpu-utilization-on-linux
 - [深入探究Linux Kprobe机制] https://mp.weixin.qq.com/s/5OKwGxwh6qwui7JdaJ82VA
