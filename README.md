@@ -3,6 +3,7 @@
 
 ### 订阅
 点击本页面右上角的 Watch 在弹出框中点击 Watching 订阅本博客，这样本博客的所有文章更新和评论都会在github首页出现。
+
 当前互联网上的知识太多，并且杂乱，此博客对软件开发经典文章进行汇总分类，帮助开发者可以快速的学习。
 
 ## Posts
@@ -22,8 +23,16 @@
 - [如何评估锁的实现](https://github.com/o-my-god/Blog/wiki/如何评估锁的实现)
 
 ### 性能调优相关文章
+**brendan gregg大神Linux观测工具**
+![brendan gregg大神Linux观测工具](https://github.com/o-my-god/Blog/blob/master/resource/linux_observability_tools.png "brendan gregg大神Linux观测工具")
+**brendan gregg大神Linux观测工具**
+![brendan gregg大神Linux基准测试工具](https://github.com/o-my-god/Blog/blob/master/resource/linux_benchmarking_tools.png)
+**brendan gregg大神Linux调优工具**
+![brendan gregg大神Linux调优工具](https://github.com/o-my-god/Blog/blob/master/resource/linux_tuning_tools.png)
+**brendan gregg大神sar工具**
+![brendan gregg大神Linux调优工具](https://github.com/o-my-god/Blog/blob/master/resource/linux_observability_sar.png)
+
 #### 性能监视、跟踪工具
-![brendan gregg大神Linux观测工具](https://github.com/o-my-god/Blog/blob/master/resource/linux_observability_tools.png)
 - [uptime系统负载监测] https://linux.cn/article-2334-1.html 
 - [top、htop、mpstat CPU使用率监测] https://linuxconfig.org/how-to-check-and-monitor-cpu-utilization-on-linux
 - [深入探究Linux Kprobe机制] https://mp.weixin.qq.com/s/5OKwGxwh6qwui7JdaJ82VA
