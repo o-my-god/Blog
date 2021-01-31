@@ -50,5 +50,9 @@
 #### 内存
 - [带你深入理解内存对齐最底层原理] https://mp.weixin.qq.com/s/F0NTfz-3x3UxQeF-GSavRg
 
+### 中间件相关知识
+#### redis
+- [Redis persistence demystified] http://oldblog.antirez.com/post/redis-persistence-demystified.html
+
 ## 关于作者
 - QQ：740016830
