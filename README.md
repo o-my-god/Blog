@@ -45,6 +45,7 @@
 - [Run Queue Latency案例] https://mp.weixin.qq.com/s/AzcB1DwqRCoiofOOI88T9Q
 - [理解 %IOWAIT (%WIO)] https://www.linuxprobe.com/understand-iowait.html
 - [Iowait的成因、对系统影响及对策] https://cloud.tencent.com/developer/article/1071025
+- [perf sched for Linux CPU scheduler analysis] http://www.brendangregg.com/blog/2017-03-16/perf-sched.html
 
 ### 操作系统相关知识
 #### 内存
