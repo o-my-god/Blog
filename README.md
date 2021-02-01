@@ -7,6 +7,13 @@
 当前互联网上的知识太多，并且杂乱，此博客对软件开发经典文章进行汇总分类，帮助开发者可以快速的学习。
 
 ## Posts
+* [性能调优相关文章](#性能调优相关文章)<br>
+     * [性能监视跟踪工具](#性能监视跟踪工具)<br>
+     * [性能调优知识](#性能调优知识)<br>
+* [操作系统相关知识](#操作系统相关知识)<br>
+     * [内存](#内存)<br>
+* [中间件相关知识](#中间件相关知识)<br>
+     * [redis](#redis)<br>
 
 ### 网络服务开发三俩儿事系列
 
@@ -47,6 +54,7 @@
 - [Iowait的成因、对系统影响及对策] https://cloud.tencent.com/developer/article/1071025
 - [perf sched for Linux CPU scheduler analysis] http://www.brendangregg.com/blog/2017-03-16/perf-sched.html
 - [perf example] http://www.brendangregg.com/perf.html#SchedulerAnalysis
+
 ### 操作系统相关知识
 #### 内存
 - [带你深入理解内存对齐最底层原理] https://mp.weixin.qq.com/s/F0NTfz-3x3UxQeF-GSavRg
