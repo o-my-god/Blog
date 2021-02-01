@@ -46,7 +46,7 @@
 - [理解 %IOWAIT (%WIO)] https://www.linuxprobe.com/understand-iowait.html
 - [Iowait的成因、对系统影响及对策] https://cloud.tencent.com/developer/article/1071025
 - [perf sched for Linux CPU scheduler analysis] http://www.brendangregg.com/blog/2017-03-16/perf-sched.html
-
+- [perf example] http://www.brendangregg.com/perf.html#SchedulerAnalysis
 ### 操作系统相关知识
 #### 内存
 - [带你深入理解内存对齐最底层原理] https://mp.weixin.qq.com/s/F0NTfz-3x3UxQeF-GSavRg
