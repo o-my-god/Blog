@@ -14,6 +14,7 @@
      * [内存](#内存)<br>
 * [中间件相关知识](#中间件相关知识)<br>
      * [redis](#redis)<br>
+* [分布式相关知识](#分布式相关知识)<br>
 
 ### 网络服务开发三俩儿事系列
 
@@ -62,6 +63,9 @@
 ### 中间件相关知识
 #### redis
 - [Redis persistence demystified] http://oldblog.antirez.com/post/redis-persistence-demystified.html
+
+### 分布式相关知识
+- [如何优雅的重试] https://mp.weixin.qq.com/s/6IkTnUbBlHjM3GM_bT35tA
 
 ## 关于作者
 - QQ：740016830
