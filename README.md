@@ -10,6 +10,8 @@
 * [性能调优相关文章](#性能调优相关文章)<br>
      * [性能监视跟踪工具](#性能监视跟踪工具)<br>
      * [性能调优知识](#性能调优知识)<br>
+* [网络服务器编程](#网络服务器编程)<br>
+     * [不为人知的网络编程](#不为人知的网络编程)<br>
 * [操作系统相关知识](#操作系统相关知识)<br>
      * [内存](#内存)<br>
 * [中间件相关知识](#中间件相关知识)<br>
@@ -56,6 +58,21 @@
 - [perf sched for Linux CPU scheduler analysis] http://www.brendangregg.com/blog/2017-03-16/perf-sched.html
 - [perf example] http://www.brendangregg.com/perf.html#SchedulerAnalysis
 
+### 网络服务器编程
+#### 不为人知的网络编程
+- [不为人知的网络编程(一)：浅析TCP协议中的疑难杂症(上篇)] http://www.52im.net/thread-1003-1-1.html
+- [不为人知的网络编程(二)：浅析TCP协议中的疑难杂症(下篇)] http://www.52im.net/thread-1004-1-1.html
+- [不为人知的网络编程(三)：关闭TCP连接时为什么会TIME_WAIT、CLOSE_WAIT] http://www.52im.net/thread-1007-1-1.html
+- [不为人知的网络编程(四)：深入研究分析TCP的异常关闭] http://www.52im.net/thread-1014-1-1.html
+- [不为人知的网络编程(五)：UDP的连接性和负载均衡] http://www.52im.net/thread-1018-1-1.html
+- [不为人知的网络编程(六)：深入地理解UDP协议并用好它] http://www.52im.net/thread-1024-1-1.html
+- [不为人知的网络编程(七)：如何让不可靠的UDP变的可靠？] http://www.52im.net/thread-1293-1-1.html
+- [不为人知的网络编程(八)：从数据传输层深度解密HTTP] http://www.52im.net/thread-2456-1-1.html
+- [不为人知的网络编程(九)：理论联系实际，全方位深入理解DNS] http://www.52im.net/thread-2740-1-1.html
+- [不为人知的网络编程(十)：深入操作系统，从内核理解网络包的接收过程(Linux篇)] http://www.52im.net/thread-3247-1-1.html
+- [不为人知的网络编程(十一)：从底层入手，深度分析TCP连接耗时的秘密] http://www.52im.net/thread-3265-1-1.html
+
+- []
 ### 操作系统相关知识
 #### 内存
 - [带你深入理解内存对齐最底层原理] https://mp.weixin.qq.com/s/F0NTfz-3x3UxQeF-GSavRg
