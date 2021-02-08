@@ -61,6 +61,7 @@
 - [perf sched for Linux CPU scheduler analysis] http://www.brendangregg.com/blog/2017-03-16/perf-sched.html
 - [perf example] http://www.brendangregg.com/perf.html#SchedulerAnalysis
 - [context switch耗时测量方法] https://www.usenix.org/legacy/events/expcs07/papers/2-li.pdf
+- [思科路由v4、v6协议栈性能对比测试] https://www.cisco.com/c/dam/en_us/solutions/industries/docs/gov/performance-comparisons.pdf
 
 ### 网络服务器编程
 #### 不为人知的网络编程
