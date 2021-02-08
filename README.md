@@ -64,6 +64,9 @@
 - [思科路由v4、v6协议栈性能对比测试] https://www.cisco.com/c/dam/en_us/solutions/industries/docs/gov/performance-comparisons.pdf
 - [宋宝华：谈一谈Linux让实时/高性能任务独占CPU的事] https://mp.weixin.qq.com/s/_NwWD5CM1tda6lJXYFjnSQ
 
+#### 性能优化方法
+- [linux内核percpu变量的实现] https://mp.weixin.qq.com/s/CwBmsJcKYEI6wejqollbpg
+
 ### 网络服务器编程
 #### 不为人知的网络编程
 - [不为人知的网络编程(一)：浅析TCP协议中的疑难杂症(上篇)] http://www.52im.net/thread-1003-1-1.html
