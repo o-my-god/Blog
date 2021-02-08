@@ -63,6 +63,7 @@
 - [context switch耗时测量方法] https://www.usenix.org/legacy/events/expcs07/papers/2-li.pdf
 - [思科路由v4、v6协议栈性能对比测试] https://www.cisco.com/c/dam/en_us/solutions/industries/docs/gov/performance-comparisons.pdf
 - [宋宝华：谈一谈Linux让实时/高性能任务独占CPU的事] https://mp.weixin.qq.com/s/_NwWD5CM1tda6lJXYFjnSQ
+- [为了追求更快，CPU、内存、I/O都做了哪些努力？] https://mp.weixin.qq.com/s/oxwRX642qXpakyUSFHN4Nw
 
 #### 性能优化方法
 - [linux内核percpu变量的实现] https://mp.weixin.qq.com/s/CwBmsJcKYEI6wejqollbpg
