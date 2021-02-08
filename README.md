@@ -103,6 +103,7 @@
 #### 内存
 - [带你深入理解内存对齐最底层原理] https://mp.weixin.qq.com/s/F0NTfz-3x3UxQeF-GSavRg
 - [Linux页框分配器之内存碎片化整理] https://mp.weixin.qq.com/s/BmCSg0R8yZcOYnDUQw44pw
+- [操作系统内存管理，搞懂这8个问题就够了] https://mp.weixin.qq.com/s/oQbX8XpBDnTmIk9L7UveyA
 
 ### 中间件相关知识
 #### redis
