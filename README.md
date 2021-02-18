@@ -116,6 +116,7 @@
 - [Redis persistence demystified] http://oldblog.antirez.com/post/redis-persistence-demystified.html
 
 ### 分布式相关知识
+- [distributed systems for fun and profit] http://book.mixu.net/distsys/single-page.html
 - [如何优雅的重试] https://mp.weixin.qq.com/s/6IkTnUbBlHjM3GM_bT35tA
 
 ## 关于作者
