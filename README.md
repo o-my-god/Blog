@@ -51,7 +51,7 @@
 - [深入探究Linux Kprobe机制] https://mp.weixin.qq.com/s/5OKwGxwh6qwui7JdaJ82VA
 - [这才是kprobe工作的本质] https://mp.weixin.qq.com/s/ATzNIVLv2cr1wxLUZBxlhw
 - [内核调测工具kprobe之实践篇] https://mp.weixin.qq.com/s/aKO5mli6RW74h5VaiZlaWQ
-
+- [perf工具使用] https://segmentfault.com/a/1190000021465563
 #### 性能调优知识
 - [CPU Utilization is Wrong] http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
 - [The PMCs of EC2: Measuring IPC] http://www.brendangregg.com/blog/2017-05-04/the-pmcs-of-ec2.html
