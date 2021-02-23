@@ -57,6 +57,7 @@
 - [The PMCs of EC2: Measuring IPC] http://www.brendangregg.com/blog/2017-05-04/the-pmcs-of-ec2.html
 - [Off-CPU Analysis] http://www.brendangregg.com/offcpuanalysis.html
 - [利用perf功能检测false sharing问题] https://easyperf.net/blog/2019/12/17/Detecting-false-sharing-using-perf
+- [使用 perf 进行性能分析时如何获取准确的调用栈] https://gaomf.cn/2019/10/30/perf_stack_traceback/
 - [Run Queue Latency案例] https://mp.weixin.qq.com/s/AzcB1DwqRCoiofOOI88T9Q
 - [理解 %IOWAIT (%WIO)] https://www.linuxprobe.com/understand-iowait.html
 - [Iowait的成因、对系统影响及对策] https://cloud.tencent.com/developer/article/1071025
