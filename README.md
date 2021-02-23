@@ -52,6 +52,7 @@
 - [这才是kprobe工作的本质] https://mp.weixin.qq.com/s/ATzNIVLv2cr1wxLUZBxlhw
 - [内核调测工具kprobe之实践篇] https://mp.weixin.qq.com/s/aKO5mli6RW74h5VaiZlaWQ
 - [perf工具使用] https://segmentfault.com/a/1190000021465563
+- [redhat系统调优手册] https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/monitoring_and_managing_system_status_and_performance/getting-started-with-perf_monitoring-and-managing-system-status-and-performance
 #### 性能调优知识
 - [CPU Utilization is Wrong] http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
 - [The PMCs of EC2: Measuring IPC] http://www.brendangregg.com/blog/2017-05-04/the-pmcs-of-ec2.html
