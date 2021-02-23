@@ -71,6 +71,7 @@
 #### 性能优化方法
 - [linux内核percpu变量的实现] https://mp.weixin.qq.com/s/CwBmsJcKYEI6wejqollbpg
 - [Dropbox 高吞吐量低延迟 Web 服务器优化之法] https://www.infoq.cn/article/optimizing-web-servers-for-high-throughput-and-l
+- [C10M性能问题] https://my.oschina.net/u/572632/blog/666522
 
 ### 网络服务器编程
 #### 不为人知的网络编程
