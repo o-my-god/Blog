@@ -73,7 +73,7 @@
 - [Dropbox 高吞吐量低延迟 Web 服务器优化之法] https://www.infoq.cn/article/optimizing-web-servers-for-high-throughput-and-l
 - [C10M性能问题] https://my.oschina.net/u/572632/blog/666522
 - [Monitoring and Tuning the Linux Networking Stack: Receiving Data] https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/
-
+- [Optimizing Applications for NUMA] https://software.intel.com/content/www/us/en/develop/articles/optimizing-applications-for-numa.html
 ### 网络服务器编程
 #### 不为人知的网络编程
 - [不为人知的网络编程(一)：浅析TCP协议中的疑难杂症(上篇)] http://www.52im.net/thread-1003-1-1.html
@@ -111,6 +111,7 @@
 - [带你深入理解内存对齐最底层原理] https://mp.weixin.qq.com/s/F0NTfz-3x3UxQeF-GSavRg
 - [Linux页框分配器之内存碎片化整理] https://mp.weixin.qq.com/s/BmCSg0R8yZcOYnDUQw44pw
 - [操作系统内存管理，搞懂这8个问题就够了] https://mp.weixin.qq.com/s/oQbX8XpBDnTmIk9L7UveyA
+- [(Mis)Understanding the NUMA Memory System Performance of Multithreaded Workloads] https://www.cse.wustl.edu/~angelee/cse539/papers/numa.pdf
 
 #### 中断
 - [CPU明明8个核，网卡为啥拼命折腾一号核？] https://mp.weixin.qq.com/s/Xf3sbkJFWDQ7bzhKFEmkzA
