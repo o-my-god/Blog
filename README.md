@@ -117,6 +117,9 @@
 #### 中断
 - [CPU明明8个核，网卡为啥拼命折腾一号核？] https://mp.weixin.qq.com/s/Xf3sbkJFWDQ7bzhKFEmkzA
 
+#### 网络
+- [Queueing in the Linux Network Stack] https://www.linuxjournal.com/content/queueing-linux-network-stack
+
 ### 中间件相关知识
 #### redis
 - [Redis persistence demystified] http://oldblog.antirez.com/post/redis-persistence-demystified.html
