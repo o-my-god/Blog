@@ -122,6 +122,9 @@
 
 #### 网络
 - [Queueing in the Linux Network Stack] https://www.linuxjournal.com/content/queueing-linux-network-stack
+- [Controlling Queue Delay-A modern AQM is just one piece of the solution to bufferbloat.]
+  https://queue.acm.org/detail.cfm?id=2209336
+- [Epoll is fundamentally broken] https://kernel.taobao.org/2019/12/epoll-is-fundamentally-broken/
 
 ### 中间件相关知识
 #### redis
