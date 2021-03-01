@@ -71,7 +71,8 @@
 - [宋宝华：谈一谈Linux让实时/高性能任务独占CPU的事] https://mp.weixin.qq.com/s/_NwWD5CM1tda6lJXYFjnSQ
 - [为了追求更快，CPU、内存、I/O都做了哪些努力？] https://mp.weixin.qq.com/s/oxwRX642qXpakyUSFHN4Nw
 - [Socket缓存是如何影响TCP性能的？] https://zhuanlan.zhihu.com/p/237610474?utm_source=wechat_session
-
+- [Thinking Clearly about Performance-Improving the performance of complex software is difficult, but understanding some fundamental principles can make it easier.]
+  https://queue.acm.org/detail.cfm?id=1854041
 #### 性能优化方法
 - [linux内核percpu变量的实现] https://mp.weixin.qq.com/s/CwBmsJcKYEI6wejqollbpg
 - [Dropbox 高吞吐量低延迟 Web 服务器优化之法] https://www.infoq.cn/article/optimizing-web-servers-for-high-throughput-and-l
