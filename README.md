@@ -127,6 +127,7 @@
   https://queue.acm.org/detail.cfm?id=2209336
 - [Epoll is fundamentally broken] https://kernel.taobao.org/2019/12/epoll-is-fundamentally-broken/
 - [网络 IO 演变发展过程和模型介绍] https://mp.weixin.qq.com/s/EDzFOo3gcivOe_RgipkTkQ
+- [全网惊群本质最透彻的分析] https://zhuanlan.zhihu.com/p/351065391
 
 ### 中间件相关知识
 #### redis
