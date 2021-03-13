@@ -53,6 +53,8 @@
 - [深入探究Linux Kprobe机制] https://mp.weixin.qq.com/s/5OKwGxwh6qwui7JdaJ82VA
 - [这才是kprobe工作的本质] https://mp.weixin.qq.com/s/ATzNIVLv2cr1wxLUZBxlhw
 - [内核调测工具kprobe之实践篇] https://mp.weixin.qq.com/s/aKO5mli6RW74h5VaiZlaWQ
+- - [Hooking linux kernel function part1:looking for the perfect solution] https://www.apriorit.com/dev-blog/544-hooking-linux-functions-1
+- [Hooking linux kernel function part2:how to hook function with ftrace] https://www.apriorit.com/1elooking for the perfect solutionhooking-linux-functions-2
 - [perf工具使用] https://segmentfault.com/a/1190000021465563
 - [redhat系统调优手册] https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/monitoring_and_managing_system_status_and_performance/getting-started-with-perf_monitoring-and-managing-system-status-and-performance
 #### 性能调优知识
