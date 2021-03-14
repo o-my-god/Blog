@@ -56,6 +56,7 @@
 - [Hooking linux kernel function part1:looking for the perfect solution] https://www.apriorit.com/dev-blog/544-hooking-linux-functions-1
 - [Hooking linux kernel function part2:how to hook function with ftrace] https://www.apriorit.com/dev-blog/546-hooking-linux-functions-2
 - [Hooking linux kernel function part3:What Are the Main Pros and Cons of Ftrace?] https://www.apriorit.com/dev-blog/547-hooking-linux-functions-3
+- [Ftrace Kernel Hooks: More than just tracing] https://blog.linuxplumbersconf.org/2014/ocw/system/presentations/1773/original/ftrace-kernel-hooks-2014.pdf
 - [Using the GCC Attribute Constructor with LD_PRELOAD] https://www.apriorit.com/dev-blog/537-using-constructor-attribute-with-ld-preload
 - [perf工具使用] https://segmentfault.com/a/1190000021465563
 - [redhat系统调优手册] https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/monitoring_and_managing_system_status_and_performance/getting-started-with-perf_monitoring-and-managing-system-status-and-performance
