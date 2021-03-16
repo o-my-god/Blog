@@ -125,6 +125,7 @@
 
 #### 中断
 - [CPU明明8个核，网卡为啥拼命折腾一号核？] https://mp.weixin.qq.com/s/Xf3sbkJFWDQ7bzhKFEmkzA
+- [linux kernel的中断子系统之（三）：IRQ number和中断描述符] http://www.wowotech.net/irq_subsystem/interrupt_descriptor.html
 
 #### 网络
 - [Queueing in the Linux Network Stack] https://www.linuxjournal.com/content/queueing-linux-network-stack
