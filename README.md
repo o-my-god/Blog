@@ -136,6 +136,8 @@
 - [全网惊群本质最透彻的分析] https://zhuanlan.zhihu.com/p/351065391
 - [Linux中rps/rfs的原理及实现] https://tqr.ink/2017/07/09/implementation-of-rps-and-rfs/
 
+#### 进程管理
+- [user namespace] https://mp.weixin.qq.com/s/PTMQ4HsZZaC52JXgWuioWA
 ### 中间件相关知识
 #### redis
 - [Redis persistence demystified] http://oldblog.antirez.com/post/redis-persistence-demystified.html
