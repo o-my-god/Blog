@@ -19,6 +19,7 @@
 * [中间件相关知识](#中间件相关知识)<br>
      * [redis](#redis)<br>
 * [分布式相关知识](#分布式相关知识)<br>
+* [计算机体系结构](#计算机体系结构)<br>
 
 ### 网络服务开发三俩儿事系列
 
@@ -150,6 +151,7 @@
 
 ### 计算机体系结构
 - [Cache Blocking Techniques] https://software.intel.com/content/www/us/en/develop/articles/cache-blocking-techniques.html#:~:text=Cache%20Blocking%20is%20a%20technique%20to%20rearrange%20data,data%20in%20such%20a%20way%20to%20reuse%20cache.
-
+- [Architectural support for thread communications in multi-core processors] http://www.di.fc.ul.pt/~mjc/artigos-CP/Architectural%20support%20for%20thread%20communications%20in%20multi-core%20processors.pdf
+- [HOW FAST CAN YOU GO – OPTIMIZING MEMORY CACHE PERFORMANCE] https://www.cmg.org/wp-content/uploads/2015/10/memory_cache.pdf
 ## 关于作者
 - QQ：740016830
