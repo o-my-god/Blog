@@ -85,9 +85,8 @@
 - [C10M性能问题] https://my.oschina.net/u/572632/blog/666522
 - [Monitoring and Tuning the Linux Networking Stack: Receiving Data] https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/
 - [Optimizing Applications for NUMA] https://software.intel.com/content/www/us/en/develop/articles/optimizing-applications-for-numa.html
--[Tips for Optimizing C/C++ Code] https://people.cs.clemson.edu/~dhouse/courses/405/papers/optimize.pdf
+- [Tips for Optimizing C/C++ Code] https://people.cs.clemson.edu/~dhouse/courses/405/papers/optimize.pdf
 
-[]https://people.cs.clemson.edu/~dhouse/courses/405/papers/optimize.pdf
 ### 网络服务器编程
 #### 不为人知的网络编程
 - [不为人知的网络编程(一)：浅析TCP协议中的疑难杂症(上篇)] http://www.52im.net/thread-1003-1-1.html
