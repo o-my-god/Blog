@@ -121,6 +121,9 @@
 - [从根上理解高性能、高并发(五)：深入操作系统，理解高并发中的协程] http://www.52im.net/thread-3306-1-1.html
 - [从根上理解高性能、高并发(六)：通俗易懂，高性能服务器到底是如何实现的] http://www.52im.net/thread-3315-1-1.html
 
+### 网络协议
+- [淘宝二面，面试官居然把TCP三次握手问的这么详细] https://mp.weixin.qq.com/s/dsC7EKSemcmvVqvCjkanIQ
+
 ### 操作系统相关知识
 #### 内存
 - [带你深入理解内存对齐最底层原理] https://mp.weixin.qq.com/s/F0NTfz-3x3UxQeF-GSavRg
