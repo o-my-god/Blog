@@ -130,6 +130,8 @@
 - [Linux页框分配器之内存碎片化整理] https://mp.weixin.qq.com/s/BmCSg0R8yZcOYnDUQw44pw
 - [操作系统内存管理，搞懂这8个问题就够了] https://mp.weixin.qq.com/s/oQbX8XpBDnTmIk9L7UveyA
 - [(Mis)Understanding the NUMA Memory System Performance of Multithreaded Workloads] https://www.cse.wustl.edu/~angelee/cse539/papers/numa.pdf
+- [/PROC/MEMINFO之谜] http://linuxperf.com/?p=142
+- [怎样统计所有进程总共占用多少内存？] http://linuxperf.com/?p=143
 
 #### 中断
 - [CPU明明8个核，网卡为啥拼命折腾一号核？] https://mp.weixin.qq.com/s/Xf3sbkJFWDQ7bzhKFEmkzA
