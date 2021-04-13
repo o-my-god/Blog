@@ -132,6 +132,7 @@
 - [(Mis)Understanding the NUMA Memory System Performance of Multithreaded Workloads] https://www.cse.wustl.edu/~angelee/cse539/papers/numa.pdf
 - [/PROC/MEMINFO之谜] http://linuxperf.com/?p=142
 - [怎样统计所有进程总共占用多少内存？] http://linuxperf.com/?p=143
+- [Linux物理内存回收机制]https://abcdxyzk.github.io/blog/2015/04/18/kernel-mm-reclaim2/
 
 #### 中断
 - [CPU明明8个核，网卡为啥拼命折腾一号核？] https://mp.weixin.qq.com/s/Xf3sbkJFWDQ7bzhKFEmkzA
