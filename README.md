@@ -60,6 +60,8 @@
 - [Ftrace Kernel Hooks: More than just tracing] https://blog.linuxplumbersconf.org/2014/ocw/system/presentations/1773/original/ftrace-kernel-hooks-2014.pdf
 - [Using the GCC Attribute Constructor with LD_PRELOAD] https://www.apriorit.com/dev-blog/537-using-constructor-attribute-with-ld-preload
 - [perf工具使用] https://segmentfault.com/a/1190000021465563
+- [perf sched] http://oliveryang.net/2017/04/linux-perf-sched/
+- [perf use tips] http://oliveryang.net/2016/07/linux-perf-tools-tips/
 - [redhat系统调优手册] https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/monitoring_and_managing_system_status_and_performance/getting-started-with-perf_monitoring-and-managing-system-status-and-performance
 #### 性能调优知识
 - [CPU Utilization is Wrong] http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
