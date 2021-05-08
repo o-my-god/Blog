@@ -63,6 +63,7 @@
 - [perf sched] http://oliveryang.net/2017/04/linux-perf-sched/
 - [perf use tips] http://oliveryang.net/2016/07/linux-perf-tools-tips/
 - [redhat系统调优手册] https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/monitoring_and_managing_system_status_and_performance/getting-started-with-perf_monitoring-and-managing-system-status-and-performance
+- [Using KernelShark to analyze the real-time scheduler] https://lwn.net/Articles/42553/
 #### 性能调优知识
 - [CPU Utilization is Wrong] http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
 - [The PMCs of EC2: Measuring IPC] http://www.brendangregg.com/blog/2017-05-04/the-pmcs-of-ec2.html
