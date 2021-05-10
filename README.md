@@ -163,6 +163,9 @@
 - [FAILURE MODES IN DISTRIBUTED SYSTEMS] https://alvaro-videla.com/2013/12/failure-modes-in-distributed-systems.html
 - [如何优雅的重试] https://mp.weixin.qq.com/s/6IkTnUbBlHjM3GM_bT35tA
 
+### docker
+- [linux namespace机制] https://www.cnblogs.com/sparkdev/p/9365405.html
+
 ### 计算机体系结构
 - [Cache Blocking Techniques] https://software.intel.com/content/www/us/en/develop/articles/cache-blocking-techniques.html#:~:text=Cache%20Blocking%20is%20a%20technique%20to%20rearrange%20data,data%20in%20such%20a%20way%20to%20reuse%20cache.
 - [Architectural support for thread communications in multi-core processors] http://www.di.fc.ul.pt/~mjc/artigos-CP/Architectural%20support%20for%20thread%20communications%20in%20multi-core%20processors.pdf
