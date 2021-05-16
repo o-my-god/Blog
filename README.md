@@ -168,6 +168,8 @@
 
 ### kubernetes
 -[进击的 Kubernetes 调度系统（一）：Scheduling Framework] https://www.infoq.cn/article/lYUw79lJH9bZv7HrgGH5
+-[腾讯会议大规模任务调度系统架构设计] https://zhuanlan.zhihu.com/p/139282250
+
 ### 计算机体系结构
 - [Cache Blocking Techniques] https://software.intel.com/content/www/us/en/develop/articles/cache-blocking-techniques.html#:~:text=Cache%20Blocking%20is%20a%20technique%20to%20rearrange%20data,data%20in%20such%20a%20way%20to%20reuse%20cache.
 - [Architectural support for thread communications in multi-core processors] http://www.di.fc.ul.pt/~mjc/artigos-CP/Architectural%20support%20for%20thread%20communications%20in%20multi-core%20processors.pdf
