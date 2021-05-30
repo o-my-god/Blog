@@ -158,6 +158,8 @@
 - [Redis persistence demystified] http://oldblog.antirez.com/post/redis-persistence-demystified.html
 
 ### go
+-[Ultimate Go] https://github.com/ardanlabs/gotraining/tree/master/topics/go#rules
+-[go语言实现与设计] https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-netpoller/
 -[go netpoller源码解析] https://strikefreedom.top/go-netpoll-io-multiplexing-reactor
 ### 分布式相关知识
 - [distributed systems for fun and profit] http://book.mixu.net/distsys/single-page.html
